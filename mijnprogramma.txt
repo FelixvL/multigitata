@@ -1,1 +1,2 @@
-hallo dit is mijn eerste zin // Felix
+hallo dit is mijn eerste VERANDERING zin // Felix 
+Hallo dit is een tweede zin // Felix
